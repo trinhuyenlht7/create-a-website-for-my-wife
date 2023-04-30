@@ -1,0 +1,7 @@
+1. Phân Tích
+    a.header 
+    -logo
+    -tên shop
+    -đăng nhập
+    
+    b.
