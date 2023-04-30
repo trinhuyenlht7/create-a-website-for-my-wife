@@ -1,7 +1,10 @@
+link tham khảo
+https://www.youtube.com/watch?v=VRrEquQfh88
+
 1. Phân Tích
     a.header 
     -logo
     -tên shop
     -đăng nhập
-    
+
     b.
